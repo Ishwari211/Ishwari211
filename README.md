@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ishwari211
 - 👀 I’m interested in Product management, artificial intelligence and machine learning 
 - 🌱 I’m currently learning Full stack development
-- 📫 How to reach me https://www.linkedin.com/in/ishwari-jadhav-1b6262272
+- 📫 How to reach me https://www.linkedin.com/in/ishwari-jadhav-82a104315/
 -Languages I know : Marathi, Hindi, English, Sanskrit, German
   -Programming Languages
   1.C
