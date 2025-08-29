@@ -2,6 +2,7 @@
 - 👀 I’m interested in Product management, artificial intelligence, and machine learning 
 - 🌱 I’m currently learning full-stack development
 - 📫 How to reach me https://www.linkedin.com/in/ishwari-sandeep-jadhav-82a104315/
+- Gmail me: ishwari21jadhav@gmail.com
 -Languages I know: Marathi, Hindi, English, Sanskrit, German
   -Programming Languages
   1. C
